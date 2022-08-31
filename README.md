@@ -1,4 +1,4 @@
-# LGM-Task-2
+# LGM-Task
 This is the second task of my web development internship at Letsgrowmore Community
 CREATE A WEB APPLICATION USING CREATE-REACT
 
